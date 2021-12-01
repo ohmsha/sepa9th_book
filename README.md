@@ -9,7 +9,7 @@
 
 ## コンテンツ
 
-- [参考文献の邦訳書籍一覧（後ほど追加予定）](./reference_jp/README.md)
+- [参考文献の邦訳書籍一覧](./reference_jp/README.md)
 - [Special Training解答例（後ほど追加予定）](./special_training/README.md)
 
 コンテンツは継続的に増やす想定です。ご協力いただきたい方はTwitter：@NoriyukiMizunoまで連絡お願いします。
